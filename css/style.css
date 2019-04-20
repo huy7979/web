@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower|Montserrat');
+.logo{
+    width: 50%;
+}
+.banner{
+    background-image: url('../images/banner.jpg');
+   height: 350px;
+}
+.padtop{
+	padding-top: 30px;
+}
+
+.intro{
+    background-color: rgb(0, 0, 0);
+    margin-right: 0px !important;
+    margin-left: 0px !important;
+}
+.navbar .collapse{
+    margin-left: -150px;
+}
+.padtop{
+    padding-top: 20px;
+}
+.alignCenter {
+    text-align: center;
+    padding-top: 20px;
+}
+.font-new{
+    font-size: 50px;
+}
+.padtop{
+    padding-top: 20px;
+}
+.page-footer{
+    background-color: darkslateblue
+
+}
+.padtop{
+    padding-top: 20px;
+}
+.text-center{
+    text-align: center;
+}
+.color{
+    background-color: teal
+}
+.padtop{
+    padding-top: 20px;
+}
+.padtop{
+    padding-top: 20ox;
+}
+.padtop{
+    padding-top: 20px;
+}
+.new-color{
+    background-color: black
+}
+.new-color{
+    background-color: black
+}
+.font-new{
+    font-family: 'Montserrat', sans-serif;
+font-family: 'Indie Flower', cursive;
+}
